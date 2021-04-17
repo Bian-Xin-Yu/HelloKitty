@@ -5,5 +5,6 @@ import(
 )
 
 func main(){
-	fmt.Println("HelloKitty")
+	var x string = "HelloKitty"
+	fmt.Println(x)
 }

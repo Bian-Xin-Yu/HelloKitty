@@ -1,1 +1,2 @@
-echo "HelloKitty"
+x="HelloKitty"
+echo ${x}
