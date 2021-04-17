@@ -7,5 +7,5 @@ import(
 func main(){
 	var x string = "HelloKitty"
 	fmt.Println(x)
-	fmt.Println("Love HelloKitty")
+	fmt.Println("Love Kitty")
 }

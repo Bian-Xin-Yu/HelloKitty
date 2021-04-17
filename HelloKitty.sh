@@ -1,3 +1,3 @@
 x="HelloKitty"
 echo ${x}
-echo "Love HelloKitty"
+echo "Love Kitty"
